@@ -65,7 +65,7 @@ body * {
 }
 
 .image_apartment {
-    background-image: url(../images/image_apartment.png);
+    background-image: url(./images/image_apartment.png);
     background-size: cover;
     height: 707px;
     padding-top: 194px;
